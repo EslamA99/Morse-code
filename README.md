@@ -1,2 +1,2 @@
 # Morse-code
-Morse code eslam adel ismail
+Morse code project describes encryption and decryption text by morse encryption method
